@@ -1,0 +1,30 @@
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.exe
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.deps.json
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.runtimeconfig.json
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\ref\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.pdb
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.AssemblyInfoInputs.cache
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.AssemblyInfo.cs
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.csproj.CoreCompileInputs.cache
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\ref\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.pdb
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.genruntimeconfig.cache
+C:\Users\BBelt\source\repos\Numbers CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.csproj.AssemblyReference.cache
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.exe
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.deps.json
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.runtimeconfig.json
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\ref\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\bin\Debug\net6.0\Numbers CSharp.pdb
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.csproj.AssemblyReference.cache
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.AssemblyInfoInputs.cache
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.AssemblyInfo.cs
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.csproj.CoreCompileInputs.cache
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\ref\Numbers CSharp.dll
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.pdb
+C:\Users\BBelt\source\repos\Numbers_CSharp\Numbers CSharp\obj\Debug\net6.0\Numbers CSharp.genruntimeconfig.cache
